@@ -1,2 +1,2 @@
 # Flappy-Bird
-Flappy Bird Tutorial
+Alternate Version of Flappy Bird
